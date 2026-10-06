@@ -211,6 +211,13 @@ tempCodeRunnerFile.py
 # PyPI configuration file
 .pypirc
 
+# Local datasets, checkpoints, and evaluation artifacts
+/processed/
+/data/
+/models/
+/results/
+.DS_Store
+
 # Marimo
 marimo/_static/
 marimo/_lsp/
